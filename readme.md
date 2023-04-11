@@ -24,7 +24,7 @@ Design: [Astronautas](https://cdn.dribbble.com/users/1355613/screenshots/5964475
 -   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -   super basic HTML/CSS
 -   fixed width content
--   "<header> & <footer>"
+-   header & footer
 -   Fontawsome font/icons
 -   html entities
 -   pseudo-elements
