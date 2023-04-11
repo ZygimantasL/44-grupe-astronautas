@@ -1,0 +1,21 @@
+header,
+main,
+footer {
+    width: 800px;
+   margin-left: calc(50% - 400px);
+   margin-right: calc(50% - 400px);
+}
+header {
+   margin-top: 100px;
+   background-color: rgb(230, 248, 248);
+   
+}
+main {
+    background-color: rgba(255, 255, 0, 0.137);
+
+}
+footer {
+    background-color: rgba(153, 205, 50, 0.15);
+}
+
+/* screen size 1920x1020 */
